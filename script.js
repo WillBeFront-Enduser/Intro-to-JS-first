@@ -1,4 +1,4 @@
-var nickname = prompt('Who are you?');
-alert(`My name is ${nickname}.`);
-console.log('My name is', nickname);
-document.write('My name is', nickname);
+var nickname = prompt('Де ты живеш?');
+alert(`Я живу в ${nickname}.`);
+console.log('Я живу в', nickname);
+document.write('Я живу в', nickname);
