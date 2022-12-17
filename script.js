@@ -1,4 +1,4 @@
-var nickname = prompt('Де ты живеш?');
-alert(`Я живу в ${nickname}.`);
-console.log('Я живу в', nickname);
-document.write('Я живу в', nickname);
+var cityLiving = prompt('Де ты живеш?');
+alert(`Я живу в ${cityLiving}.`);
+console.log('Я живу в', cityLiving);
+document.write('Я живу в', cityLiving);
